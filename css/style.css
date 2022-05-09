@@ -46,3 +46,25 @@ li{
 .my-card img{
     border-radius: 10px;
 }
+
+p{
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.download{
+    width: 16px;
+    vertical-align: initial;
+}
+
+.star{
+    width: 35px;
+}
+
+.avatar{
+    width: 200px;
+}
+
+.my-img{
+    width: 100%;
+}
