@@ -1,3 +1,7 @@
+.pos-rel{
+    position: relative;
+}
+
 .back-cl-first{
     background-color: #1ABC9C;
 }
@@ -67,4 +71,23 @@ p{
 
 .my-img{
     width: 100%;
+}
+
+.my-label{
+    font-weight: 500;
+    top:35px;
+}
+
+.my-input.form-control{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #ced4da;
+    !important
+}
+
+.my-btn.btn-primary {
+    background-color: #1ABC9C;
+    border: #1ABC9C;
+    font-weight: 500;
 }
