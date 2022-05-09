@@ -14,6 +14,35 @@
     background-color: #2C3E50;
 }
 
+.back-cl-fifth{
+    background-color: white;
+}
+
 li{
     padding-right: 2rem;
+}
+
+.section-title{
+    font-size: 55px;
+    font-weight: 500;
+}
+
+.line-star-line{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line{
+    min-height: 4px;
+    min-width: 140px;
+    border-radius: 4px;
+}
+
+.my-card{
+    padding-bottom: 2rem;
+}
+
+.my-card img{
+    border-radius: 10px;
 }
