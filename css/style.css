@@ -91,3 +91,11 @@ p{
     border: #1ABC9C;
     font-weight: 500;
 }
+
+.my-form{
+    height: 40px;
+}
+
+.my-text{
+    padding-top: 50px;
+}
