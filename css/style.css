@@ -35,8 +35,12 @@ p{
     background-color: white;
 }
 
+.txt-cl{
+    color: #1ABC9C;
+}
+
 .section-title{
-    font-size: 55px;
+    font-size: 48px;
     font-weight: 500;
 }
 
@@ -90,9 +94,13 @@ p{
     bottom: 35px;
 }
 
-.my-btn.btn-primary {
+.my-btn-send.btn-primary {
     background-color: #1ABC9C;
     border: #1ABC9C;
+    font-weight: 500;
+}
+
+.my-btn-download.btn-outline-light{
     font-weight: 500;
 }
 
@@ -120,6 +128,10 @@ p{
     width: 17px;
 }
 
+.copy-icon{
+    width: 13px;
+}
+
 .my-circle{
     display: flex;
     justify-content: center;
@@ -128,5 +140,5 @@ p{
     height: 50px;
     border-radius: 50%;
     border: 1px solid white;
-
+    flex-shrink: 0;
 }
